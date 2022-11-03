@@ -36,4 +36,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ghcr.io/57-Wolve/yolks:${{ matrix.oses }}
+            ghcr.io/57-wolve/yolks:${{ matrix.oses }}
